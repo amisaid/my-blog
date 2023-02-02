@@ -1,5 +1,5 @@
 # my-blog
 
-### SOme intro header here
+### Some intro header here
 
 Some text here
