@@ -1,0 +1,13 @@
+# Site settings
+title: Amina's Blog
+
+
+author:
+  name: Amina Said
+  email: amina.said@mail.dcu.ie
+  
+  
+description: "Amina's Blog"
+
+# Build settings
+remote_theme: jekyll/minima
